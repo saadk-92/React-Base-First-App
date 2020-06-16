@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return <div>Hello from App.js updated</div>
+  return <h1>Hello to All from Saad khan</h1>
+        
 }
 
 export default App;

@@ -6,7 +6,8 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
  // <span>Hello, world</span>,
-<div><App/></div>,
+<h1><App/></h1>,
+
   
   
   document.getElementById('root')
